@@ -56,7 +56,7 @@ void shadeWithShadow() {
 
 subroutine(RenderPassType)
 void recordDepth() {
-    // No implementation needed for recordDepth subroutine
+    
 }
 
 void main() {

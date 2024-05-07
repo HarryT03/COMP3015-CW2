@@ -1,15 +1,15 @@
-C:\Dependencies\lib\glad.c;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\glad.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\cube.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\cube.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\frustum.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\frustum.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\glslprogram.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\glslprogram.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\glutils.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\glutils.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\objmesh.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\objmesh.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\plane.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\plane.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\skybox.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\skybox.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\stb\stb_image.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\stb_image.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\teapot.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\teapot.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\texture.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\texture.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\torus.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\torus.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\helper\trianglemesh.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\trianglemesh.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\main.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\main.obj
-C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\scenebasic_uniform.cpp;C:\Users\hjtro\OneDrive\Documents\Plymouth University\Computer Science\Module 3015\CW2\Project_Template\Project_Template\x64\Debug\scenebasic_uniform.obj
+C:\Dependencies\lib\glad.c;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\glad.obj
+C:\Users\hjtro\COMP3015-CW2\helper\cube.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\cube.obj
+C:\Users\hjtro\COMP3015-CW2\helper\frustum.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\frustum.obj
+C:\Users\hjtro\COMP3015-CW2\helper\glslprogram.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\glslprogram.obj
+C:\Users\hjtro\COMP3015-CW2\helper\glutils.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\glutils.obj
+C:\Users\hjtro\COMP3015-CW2\helper\objmesh.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\objmesh.obj
+C:\Users\hjtro\COMP3015-CW2\helper\plane.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\plane.obj
+C:\Users\hjtro\COMP3015-CW2\helper\skybox.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\skybox.obj
+C:\Users\hjtro\COMP3015-CW2\helper\stb\stb_image.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\stb_image.obj
+C:\Users\hjtro\COMP3015-CW2\helper\teapot.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\teapot.obj
+C:\Users\hjtro\COMP3015-CW2\helper\texture.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\texture.obj
+C:\Users\hjtro\COMP3015-CW2\helper\torus.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\torus.obj
+C:\Users\hjtro\COMP3015-CW2\helper\trianglemesh.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\trianglemesh.obj
+C:\Users\hjtro\COMP3015-CW2\main.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\main.obj
+C:\Users\hjtro\COMP3015-CW2\scenebasic_uniform.cpp;C:\Users\hjtro\COMP3015-CW2\Project_Template\x64\Debug\scenebasic_uniform.obj

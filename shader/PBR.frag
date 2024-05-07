@@ -47,17 +47,17 @@ vec3 schlickFresnel( float lDothH)
 
 vec3 microfacetModel(int lightIdx, vec3 position, vec3 n)
 {
-	vec3 diffuseBrdf = vec3(0.0); //metallic
+	vec3 diffuseBrdf = vec3(0.0);
 	if (!Material.Metal)
 	{
 		diffuseBrdf = Material.Color;
 	}
 	vec3 l = vec3(0.0),	lightI = Light[lightIdx].L;
-	if( Light[lightIdx].Position.w == 0.0) //directional lighting
+	if( Light[lightIdx].Position.w == 0.0)
 	{
 		l = normalize(Light[lightIdx].Position.xyz);
-	}
-	else //positional lighting
+	} 
+	else
 	{
 		l = Light[lightIdx].Position.xyz - position;
 		float dist = length(l);
@@ -85,7 +85,6 @@ void main()
   sum += microfacetModel(i, Position, n);
  }
 
- //gamma 
  sum = pow(sum, vec3(1.0/2.2));
  FragColor = vec4(sum, 1);
 }

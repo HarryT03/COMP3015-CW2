@@ -37,6 +37,8 @@ private:
     glm::vec3 freeCamPos;
     glm::vec3 freeCamFront;
     glm::vec3 freeCamUp;
+    float freeCamPitch;
+    float freeCamYaw;
     float freeCamSpeed;
     GLFWwindow* window;
 
@@ -44,7 +46,6 @@ private:
     void setMatrices();
     void compile();
     void drawScene();
-    void SpitOutDepthBuffer();
     void setupFBO();
     void drawSpot(const glm::vec3& pos, float rough, int metal, const glm::vec3& color, float scale);
     
