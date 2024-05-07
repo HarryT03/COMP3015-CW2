@@ -12,3 +12,5 @@ The shaders that I chose to implement were the Shadow Map and the PBR. These add
 Some issues were with the texture mapping and the freecam implementation. The textures would be rendered on top of the shadows so they were not visible in the scene, they were removed to show the shadows. The freecam clashed with the other camera views set in the code and the shadows were rendered from the freecam when looking around which made the scene look bad.
 
 I have achieved a customly implemented model which looks amazing with PBR shaders added to them, as well as the shadows being cast off of them.
+
+Video link - https://youtu.be/FBwm_KU7KBU
